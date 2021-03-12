@@ -43,3 +43,10 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+
+copyright
+
+https://www.vectorstock.com/royalty-free-vector/rosie-the-riveter-vector-24045051
+https://www.freeconvert.com/jfif-to-png/download
+https://github.com/IanLunn/Hover#a-copy-and-paste-an-effect
